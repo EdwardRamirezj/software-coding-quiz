@@ -1,7 +1,7 @@
 let questions = [
     {   num: 1,
         question: 'Arays in Javascript are used to store:',
-        options: ['Booleans', 'Strings','Numnbers','All of the above'],
+        options: ['Booleans', 'Strings','Numbers','All of the above'],
         answer: 'All of the above',
     },
     
